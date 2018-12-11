@@ -11,7 +11,7 @@ export function Header() {
 					<input
 						className="form-control mr-sm-2 bwm-search"
 						type="search"
-						placeholder="Try New York"
+						placeholder="Try 'New York'"
 						aria-label="Search"
 					/>
 					<button className="btn btn-outline-success my-2 my-sm-0 btn-bwm-search" type="submit">
